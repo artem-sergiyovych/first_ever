@@ -1,0 +1,3 @@
+/Users/artemtymoshchuk/Desktop/first_ever/first_ever/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/artemtymoshchuk/Desktop/first_ever/first_ever/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/artemtymoshchuk/Desktop/first_ever/first_ever/cmake-build-debug/CMakeFiles/untitled3.dir
